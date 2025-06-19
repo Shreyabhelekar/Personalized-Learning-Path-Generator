@@ -21,7 +21,7 @@ A smart web app that analyzes student performance data and recommends YouTube vi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/SkillLens.git
+git clone https://github.com/Shreyabhelekar/SkillLens.git
 cd SkillLens
 ```
 ### 2. Install Dependencies
