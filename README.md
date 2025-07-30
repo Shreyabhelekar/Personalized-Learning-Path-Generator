@@ -1,4 +1,4 @@
-# SkillLens: AI-Powered Personalized Learning Path Generator
+# Personalized Learning Path Generator
 A smart web app that analyzes student performance data and recommends YouTube videos for weak math skills using AI.
 
 ## Features
